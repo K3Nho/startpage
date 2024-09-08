@@ -26,7 +26,7 @@ const default_config = {
   tabs: [
     {
       name: "KENHO",
-      background_url: "src/img/banners/cbg-12.gif",
+      background_url: "src/img/banners/cbg-10.gif",
       categories: [{
         name: "Media",
         links: [
@@ -43,10 +43,22 @@ const default_config = {
             icon_color: "#ea6962",
           },
           {
-            name: "reddit",
-            url: "https://www.reddit.com/",
-            icon: "brand-reddit",
-            icon_color: "#e78a4e",
+            name: "linuxdo",
+            url: "https://linux.do",
+            icon: "brand-debian",
+            icon_color: "#89b482",
+          },
+          {
+            name: "v2ex",
+            url: "https://v2ex.com/?tab=hot",
+            icon: "code",
+            icon_color: "#f0c6c6",
+          },
+          {
+            name: "nodeseek",
+            url: "https://www.nodeseek.com",
+            icon: "server-2",
+            icon_color: "#f5bde6",
           },
           {
             name: "x",
@@ -81,29 +93,6 @@ const default_config = {
             name: "lmsys",
             url: "https://chat.lmsys.org/?leaderboard",
             icon: "brand-twitch",
-            icon_color: "#d3869b",
-          },
-        ],
-      },
-          {
-            name: "Discussion",
-            links: [
-          {
-            name: "Linuxdo",
-            url: "https://linux.do",
-            icon: "brand-debian",
-            icon_color: "#7daea3",
-          },
-          {
-            name: "V2ex",
-            url: "https://v2ex.com/?tab=hot",
-            icon: "code",
-            icon_color: "#89b482",
-          },
-          {
-            name: "Nodeseek",
-            url: "https://www.nodeseek.com",
-            icon: "server-2",
             icon_color: "#d3869b",
           },
         ],
