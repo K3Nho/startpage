@@ -52,13 +52,13 @@ const default_config = {
             name: "v2ex",
             url: "https://v2ex.com/?tab=hot",
             icon: "code",
-            icon_color: "#f0c6c6",
+            icon_color: "#e78a4e",
           },
           {
             name: "nodeseek",
             url: "https://www.nodeseek.com",
             icon: "server-2",
-            icon_color: "#f5bde6",
+            icon_color: "#f0c6c6",
           },
           {
             name: "x",
