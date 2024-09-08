@@ -98,7 +98,7 @@ const default_config = {
           {
             name: "gpt",
             url: "https://shared.oaifree.com/?temporary-chat=true",
-            icon: "brand-gpt",
+            icon: "brand-openai",
             icon_color: "#d3869b",
           },
         ],
