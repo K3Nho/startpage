@@ -58,7 +58,7 @@ const default_config = {
             name: "nodeseek",
             url: "https://www.nodeseek.com",
             icon: "server-2",
-            icon_color: "#f0c6c6",
+            icon_color: "#b7bdf8",
           },
           {
             name: "x",
