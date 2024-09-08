@@ -26,7 +26,7 @@ const default_config = {
   tabs: [
     {
       name: "KENHO",
-      background_url: "src/img/banners/cbg-6.gif",
+      background_url: "src/img/banners/cbg-12.gif",
       categories: [{
         name: "Media",
         links: [
