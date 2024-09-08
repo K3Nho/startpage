@@ -93,6 +93,12 @@ const default_config = {
             name: "lmsys",
             url: "https://chat.lmsys.org/?leaderboard",
             icon: "brand-twitch",
+            icon_color: "#e78a4e",
+          },
+          {
+            name: "gpt",
+            url: "https://shared.oaifree.com/?temporary-chat=true",
+            icon: "brand-gpt",
             icon_color: "#d3869b",
           },
         ],
