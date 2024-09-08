@@ -49,16 +49,16 @@ const default_config = {
             icon_color: "#a9b665",
           },
           {
-            name: "v2ex",
-            url: "https://v2ex.com/?tab=hot",
-            icon: "code",
-            icon_color: "#e78a4e",
-          },
-          {
             name: "ns",
             url: "https://www.nodeseek.com",
             icon: "server-2",
             icon_color: "#89b482",
+          },
+          {
+            name: "v2ex",
+            url: "https://v2ex.com/?tab=hot",
+            icon: "code",
+            icon_color: "#e78a4e",
           },
           {
             name: "x",
