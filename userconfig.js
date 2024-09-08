@@ -46,7 +46,7 @@ const default_config = {
             name: "linuxdo",
             url: "https://linux.do",
             icon: "brand-debian",
-            icon_color: "#89b482",
+            icon_color: "#a9b665",
           },
           {
             name: "v2ex",
@@ -58,7 +58,7 @@ const default_config = {
             name: "nodeseek",
             url: "https://www.nodeseek.com",
             icon: "server-2",
-            icon_color: "#b7bdf8",
+            icon_color: "#89b482",
           },
           {
             name: "x",
@@ -87,7 +87,7 @@ const default_config = {
             name: "qmail",
             url: "https://mail.qq.com",
             icon: "mail",
-            icon_color: "#89b482",
+            icon_color: "#a9b665",
           },
           {
             name: "lmsys",
@@ -116,7 +116,7 @@ const default_config = {
             name: "mexc",
             url: "https://www.mexc.com/zh-CN/assets/spot",
             icon: "coin-monero",
-            icon_color: "#89b482",
+            icon_color: "#a9b665",
           },
           {
             name: "okx",
