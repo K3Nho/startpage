@@ -44,7 +44,7 @@ const default_config = {
           },
           {
             name: "linuxdo",
-            url: "https://linux.do",
+            url: "https://linux.do/latest",
             icon: "brand-debian",
             icon_color: "#a9b665",
           },
